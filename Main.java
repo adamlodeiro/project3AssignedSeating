@@ -16,6 +16,7 @@ class Main {
       System.out.println("What's are your name?");
       names[i] = scan.next();
       // This is my for loop to keep printing names
+      
     }
     System.out.println("Ms.Benny: Nice to meet you all now we shall assign new seats to everyone!");
     // this is just another print statement
