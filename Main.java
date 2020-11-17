@@ -7,6 +7,7 @@ class Main {
         "Misses Benny: Hello new students, my names Ms.Benny and I will be your teacher for this year. I would like to get to know your names!");
     // This is just like a script of Ms. Benny introducing herself
 
+
     int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 }; // This is the seat numbers
     String[] names = new String[15];
     // This represents 15 students
