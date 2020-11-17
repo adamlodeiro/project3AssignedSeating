@@ -16,7 +16,7 @@ class Main {
       System.out.println("What's are your name?");
       names[i] = scan.next();
       // This is my for loop to keep printing names
-      
+
     }
     System.out.println("Ms.Benny: Nice to meet you all now we shall assign new seats to everyone!");
     // this is just another print statement
@@ -24,7 +24,7 @@ class Main {
     while (count <= 14) {
 
       System.out.println(names[count] + " You'll sit in seat " + numbers[count]);
-      
+
       count++;
     }
     // While loop to assign kids to sit in their seats
